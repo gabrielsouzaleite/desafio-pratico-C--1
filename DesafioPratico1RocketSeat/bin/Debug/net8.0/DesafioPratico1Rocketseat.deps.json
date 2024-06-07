@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DesafioPratico1Rocketseat/1.0.0": {
+        "runtime": {
+          "DesafioPratico1Rocketseat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesafioPratico1Rocketseat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

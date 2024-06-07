@@ -1,0 +1,14 @@
+C:\Users\gabriel.leite\Documents\Gabriel\DesafioPratico1Rocketseat\DesafioPratico1Rocketseat\bin\Debug\net8.0\DesafioPratico1Rocketseat.exe
+C:\Users\gabriel.leite\Documents\Gabriel\DesafioPratico1Rocketseat\DesafioPratico1Rocketseat\bin\Debug\net8.0\DesafioPratico1Rocketseat.deps.json
+C:\Users\gabriel.leite\Documents\Gabriel\DesafioPratico1Rocketseat\DesafioPratico1Rocketseat\bin\Debug\net8.0\DesafioPratico1Rocketseat.runtimeconfig.json
+C:\Users\gabriel.leite\Documents\Gabriel\DesafioPratico1Rocketseat\DesafioPratico1Rocketseat\bin\Debug\net8.0\DesafioPratico1Rocketseat.dll
+C:\Users\gabriel.leite\Documents\Gabriel\DesafioPratico1Rocketseat\DesafioPratico1Rocketseat\bin\Debug\net8.0\DesafioPratico1Rocketseat.pdb
+C:\Users\gabriel.leite\Documents\Gabriel\DesafioPratico1Rocketseat\DesafioPratico1Rocketseat\obj\Debug\net8.0\DesafioPratico1Rocketseat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.leite\Documents\Gabriel\DesafioPratico1Rocketseat\DesafioPratico1Rocketseat\obj\Debug\net8.0\DesafioPratico1Rocketseat.AssemblyInfoInputs.cache
+C:\Users\gabriel.leite\Documents\Gabriel\DesafioPratico1Rocketseat\DesafioPratico1Rocketseat\obj\Debug\net8.0\DesafioPratico1Rocketseat.AssemblyInfo.cs
+C:\Users\gabriel.leite\Documents\Gabriel\DesafioPratico1Rocketseat\DesafioPratico1Rocketseat\obj\Debug\net8.0\DesafioPratico1Rocketseat.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.leite\Documents\Gabriel\DesafioPratico1Rocketseat\DesafioPratico1Rocketseat\obj\Debug\net8.0\DesafioPratico1Rocketseat.dll
+C:\Users\gabriel.leite\Documents\Gabriel\DesafioPratico1Rocketseat\DesafioPratico1Rocketseat\obj\Debug\net8.0\refint\DesafioPratico1Rocketseat.dll
+C:\Users\gabriel.leite\Documents\Gabriel\DesafioPratico1Rocketseat\DesafioPratico1Rocketseat\obj\Debug\net8.0\DesafioPratico1Rocketseat.pdb
+C:\Users\gabriel.leite\Documents\Gabriel\DesafioPratico1Rocketseat\DesafioPratico1Rocketseat\obj\Debug\net8.0\DesafioPratico1Rocketseat.genruntimeconfig.cache
+C:\Users\gabriel.leite\Documents\Gabriel\DesafioPratico1Rocketseat\DesafioPratico1Rocketseat\obj\Debug\net8.0\ref\DesafioPratico1Rocketseat.dll
